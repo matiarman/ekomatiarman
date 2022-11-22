@@ -1,4 +1,0 @@
-app:
-  applicationId: e8de8255-4389-43ce-8faa-5dbb92e32936
-  host: https://matias-armandola.herokuapp.com
-  env: Production
